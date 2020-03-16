@@ -1,0 +1,1 @@
+package euro_franc_dollard;
